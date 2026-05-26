@@ -1,6 +1,6 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-26 15:26（第十一轮扫描）  
+最后更新：2026-05-26 16:12（第十二轮扫描）  
 下次复查：下次扫描
 
 ---
@@ -26,6 +26,7 @@
 - ✅ **【2026-05-26 11:10 新增】Meritz证券新研报**：《T-glass缺口加速及未来影响（以三星电机为例）》——首次将三星电机列为受损下游，引发市场更广泛关注
 - ✅ **【2026-05-26 13:14 新增】5:1股票拆分（2026-07-01生效）+ 上调FY2026业绩展望**：管理层对未来的信心信号；拆分后每股约¥5,178，散户门槛显著降低；流动性提升预期；拆分前后关注成交量变化；下季度业绩2026-08-05
 - 🔴 **【2026-05-26 15:26 重大价格事件】5月20日收盘¥21,090，低于目标入场区间下限¥22,000**——目标区间已被触及；目前从低点反弹至~¥25,310（+14.94% in 24h per search sources）；拆分后对应约¥5,062。**重要：如果股价再次回落至¥22,000-24,000（拆分前）即¥4,400-4,800（拆分后），是较明确的入场信号。**
+- ✅ **【2026-05-26 16:12 新增】次代T-glass 2028路线图确认**（TrendForce）：CTE从2.8 ppm改善至2.0 ppm（约30%提升）；预期客户Nvidia/Apple/Google同一阵容；2028年推出意味着Nan Ya 2027年20%替代只能覆盖当前规格，无法替代最先进需求；Nittobo技术领先地位延续至2028+
 - ⚠️ T-glass约为Nittobo总营收约20%（估计），低于30%纯正度门槛（纯正度问题存在但T-glass是最高利润率分部）
 - ⚠️ Nan Ya 2027年替代路径存在（20%），长期垄断将部分弱化
 - ⚠️ 日元汇率影响汇算收益
@@ -83,9 +84,10 @@
 - ✅ **【2026-05-26 15:26 Tennessee问题确认解决】**：公司AGM更新声明Tennessee Countermeasures自动化工厂生产中断"已基本解决"（largely resolved）；FY26收入覆盖率升至85%（前年81%同期81%）；老旧生产线退役→将产能迁往新自动化设施（非现金减值）；FY26加权H2，但整体全年目标不变
 - ⚠️ 英国财政压力可能影响国内订单
 - ⚠️ 公司体量相对小，单一客户依赖需核实
+- ⚠️ **【2026-05-26 16:12 新增风险项】BAE Systems无NC/NG推进剂技术"预计2026年底达工业成熟"**——若成立，Chemring Nobel的NC护城河有长期时间线风险；但BAE目前仍处pilot阶段，2026年底是BAE自我表述，历史上此类技术突破普遍延期；短期（June 9财报）不影响；中长期（2027+）需监控
 **估值状态**：便宜（P/S~2.6x），估值绿灯  
 **近期催化剂**：⚡ **June 9, 2026 半年财报**（约2周后），订单覆盖率+利润率更新  
-**待验证**：利润率细节（H1 2026 margins）；L3Harris IPO进展；NATO框架合同细节  
+**待验证**：利润率细节（H1 2026 margins）；L3Harris IPO进展；NATO框架合同细节；BAE propellant技术进展  
 **建议动作**：在June 9财报前执行 `/investment-team` 深入研究  
 **来源**：[Chemring 2025年报](https://www.chemring.com/~/media/Files/C/Chemring-V3/docs/chemring-annual-report-and-accounts-2025-v1.pdf) | [Chemring AGM更新](https://www.chemring.com/media/press-releases/2026/20-02-2026) | [Kyiv Independent 275%扩产](https://kyivindependent.com/like-any-technology-its-a-race-uks-largest-ammo-maker-rebooting-chemistry-to-break-natos-dependence-on-explosive-imports/) | [Rheinmetall抢购NC](https://www.defensenews.com/global/europe/2025/04/07/rheinmetall-secures-nitrocellulose-supply-amid-european-ammo-scramble/)
 
@@ -128,30 +130,40 @@
 
 ## 持续跟踪（信号强度★★★）
 
-### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 【2026-05-26 14:11 初步识别】
+### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 ⚠️ 估值状态变化 【2026-05-26 14:11 初步识别 | 2026-05-26 16:12 估值警告升级】
 **瓶颈环节**：NF3/WF6半导体特种气体（A级，见master-map 3b条目）  
-**市值**：¥90-98B ≈ **$580-630M USD**（小市值✅）  
-**估值（初步绿灯，待确认）**：
-- P/S：**~1.4x**（¥98B / ¥65.4B收入）—— 极低，绿灯
-- P/E：**~24x**（¥98B / ¥3.79B净利）—— 合理，绿灯
-- 净利润增速：+17% YoY
-**瓶颈核心逻辑**：
+
+**市值（更新）**：¥135.7B ≈ **$872M USD**（小市值✅，但市值已扩大50%+）  
+**估值（⚠️ 黄灯——P/E急速扩张）**：
+- P/S：**~2.1x**（¥135.7B / ¥65.4B收入）—— 仍绿灯
+- P/E：**76.3x**（¥135.7B / ¥3.79B净利）—— **黄灯（接近80x阈值）**
+- 净利润增速：+17% YoY → **PEG = 76/17 = 4.5x（不支撑当前估值）**
+
+**【2026-05-26 16:12 重大事件】**：5月18日单日暴涨**+24%**（¥2,050→¥2,550）创新高，市场开始定价NF3/Fine Chemicals瓶颈叙事。P/E从初步识别时~24x急速扩张至76.3x。
+
+**估值状态变化**：
+- 原评估（14:11识别）：绿灯（P/E ~24x，有安全边际）
+- **当前状态（16:12）：黄灯**（P/E 76.3x，市场已开始定价）
+- 市场押注的是：NF3/WF6涨价推动利润率从5.8%升至10%+，届时净利润约¥6.5B → P/E降至约20x
+- 问题：这一利润率拐点尚未在财务数据中验证
+
+**瓶颈核心逻辑**（不变）：
 - Mitsui Chemicals 2026年3月退出NF3生产 → Kanto Denka成日本NF3唯一主要供应商（90%产能）
 - 2025-08-07工厂火灾已验证：Kanto Denka单点故障时TSMC/Samsung/Micron/Kioxia/Rapidus全部进入紧急状态
 - 同时是WF6生产商，受中国钨出口管制影响，H2 2026 WF6库存告急
 - NF3+WF6+ClF3+SF6全系列半导体特种气体，下游客户几乎涵盖所有全球顶级晶圆厂
 
 **关键未确认项（决定是否正式加入★★★+）**：
-- ⏳ **Precision Chemicals分部收入占比需>30%**（推算可能35%+，但需年报/IR确认）
+- ⏳ **Precision Chemicals/Fine Chemicals分部收入占比需>30%**（推算可能35%+，但需年报/IR确认）
+- ⏳ NF3/WF6涨价能否将利润率推至10%+（决定当前P/E是否合理）
 - ⏳ 2025火灾后生产能力是否完全恢复
-- ⏳ NF3产能扩张计划（若无扩张，集中供应风险持续）
 
-**估值安全边际（初步）**：以¥98B（$630M）买入，10年25xPE退出，年化10%需净利润$65M（当前$24M需2.7倍，CAGR约10%）。若NF3/WF6涨价周期推动利润率提升（当前5.8%→10%），目标可达，有安全边际。
+**估值安全边际（更新）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%需净利润$90M（当前$24M需3.8倍，CAGR约14%）。相比14:11时的"有安全边际"，当前价格安全边际已收窄。只有利润率拐点（5.8%→10%）真实发生，才支撑当前价格。
 
-**下一步**：查公司IR或年报确认Precision Chemicals分部收入 → 若通过则升★★★并建议执行`/investment-team`
+**建议动作（更新）**：不追高；等回调至¥1,800-2,000（P/E ~25-35x）再重评。若利润率拐点在下季度财报确认，则安全边际恢复。
 
 **加入日期**：2026-05-26  
-**来源**：[TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/) | [The Elec 钨供应风险](https://www.thelec.net/news/articleView.html?idxno=6325) | [Mitsui NF3退出 AlchemPro](https://www.alchempro.com/news/company-news/chemicals-news/japan-s-mitsui-chemicals-plans-nf3-exit-by-march-2026-302927-newsdetails.htm)
+**来源**：[Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/) | [Kanto Denka earnings upgrade - TipRanks](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-full-year-earnings-forecast-on-strong-fine-chemicals-sales)
 
 ---
 
@@ -276,19 +288,28 @@
 - ✅ **新CFO Jorge Beristain（2026-06-01生效）**：CFA认证，来自专业金融背景
 - ✅ YTD股价+126.9%，30日+27.6%，市场已高度认知
 
-**估值更新**：
-- P/S修正：~51x（基于C$25.4M × 4 = C$101.6M年化），非此前37x
-- 收入增速+221% YoY → 技术上豁免PS红线（>100%）
-- 10年25xPE退出分析：需$394M净利润，对应~$2B收入，CAGR需38.9%/年 → **当前价格无安全边际**
+**估值更新（2026-05-26 16:12 重大修正）**：
+
+| 指标 | 前次计算（trailing） | 本次更新（forward满产） |
+|------|-------------------|---------------------|
+| 收入基数 | C$25.4M × 4 = C$101.6M/年 | Sangdong 140,000 MTU × $3,140/MTU = **~$440M** + Panasqueira ~$30M = **~$470M** |
+| P/S | ~51x | **~8x**（$3.8B市值 / $470M） |
+
+- **140,000 MTU/年目标来源**：公司披露，>90%已锁定长期合同（TPW 15年协议等）
+- **Cash Flow转正验证（Q1 2026）**：操作现金流+$9.7M，首次为正——关键里程碑
+- **分析师共识**：Cantor Fitzgerald目标$25.80、BofA目标$20、DA Davidson $25——三家大机构均看多
+- **估值修正含义**：Trailing P/S 51x是快照幻觉，Forward P/S 8x更接近稳态估值；但前提是：Phase 1满产需12-18个月全爬坡，且钨价维持
+
+- 10年25xPE退出分析：需$394M净利润，对应~$2B收入，CAGR需38.9%/年 → **当前价格仍无充足安全边际**（但已较前好）
 - 市值TAM检查：全球非中国钨市场（估）~$5B/年，市值$3.8B < 20% × $5B（不触发红灯，但接近）
 
 **待验证事项**：
-- Q2/Q3 Sangdong Phase 1实际产量（设计2300吨/年，商业产出是否如期）
+- **Q2/Q3 Sangdong实际产量（最关键）**：H2 2026季度收入>$80M（即Phase 1爬坡至~50%）为升级信号
 - Montana Gentung项目H2 2026时间线可信度
 - 钨价能否维持高位（当前+557%）
-- Phase 2（2027）进展
+- Phase 2（2027年，460,000 MTU/年）推进进度
 
-**评级维持★★**：瓶颈真实+防御性强，但估值高（P/S~51x）+10年退出需38.9% CAGR；当前是叙事充分定价，非低估机会。
+**评级维持★★**：前向收入逻辑大幅改善，但股价YTD +544%已充分定价叙事；10年退出仍需高CAGR；等Q2/Q3产量验证再考虑升级。
 
 **加入日期**：2026-05-26  
 **来源**：[InvestingNews Q1](https://investingnews.com/almonty-industries-reports-first-quarter-2026-financial-results/) | [StockAnalysis AII](https://stockanalysis.com/quote/tsx/AII/) | [Almonty TPW offtake](https://almonty.com/binding-offtake-agreement-to-supply-tungsten-oxide-solely-for-us-defense-applications/) | [Almonty Montana HQ](https://www.businesswire.com/news/home/20260413261619/en/Almonty-Industries-Establishes-U.S.-Corporate-Headquarters-Reinforcing-Role-as-Americas-Tungsten-Supplier) | [NBC Montana](https://nbcmontana.com/news/local/almonty-industries-moves-headquarters-to-montana-as-tungsten-push-intensifies)
@@ -372,3 +393,7 @@
 | 2026-05-26 15:26 | CHG.L | **Tennessee问题确认解决（评级★★★★维持）** | AGM声明中断"largely resolved"；FY26覆盖率升至85%；H2加权但全年目标不变；June 9财报倒计时13天 |
 | 2026-05-26 15:26 | UAMY | **Q1 miss后5月20日回升+13.64%（评级★★★维持）** | H.C. Wainwright维持Buy+$11.75；FY2026 $125M指引维持；Thompson Falls 7月80%爬坡是下一验证点 |
 | 2026-05-26 15:26 | AII.TO | **FY2026收入预测C$297M确认（评级★★维持）** | Sangdong Phase 1完成；Q1→Q4逐季爬坡（Q1~C$31M→Q4~C$124M）；P/S ~51x无安全边际 |
+| 2026-05-26 16:12 | 4047.T | **⚠️估值状态突变：绿灯→黄灯（评级★★★维持）** | 5月18日单日+24%（¥2,050→¥2,550），P/E从~24x急速扩张至76.3x（接近80x黄灯阈值）；市值¥135.7B（↑50%）；市场开始定价NF3/Fine Chemicals瓶颈；建议等回调至¥1,800-2,000再重评 |
+| 2026-05-26 16:12 | AII.TO | **前向收入重大修正（评级★★维持）** | Sangdong Phase 1目标140,000 MTU/年（>90%已签长期合同）；at $3,140/MTU = ~$440M；加Panasqueira ~$30M = **前向收入~$470M**；前向P/S从51x压缩至**~8x**；Q1操作现金流+$9.7M（已转正）；三大分析师目标价$20-25.80 |
+| 2026-05-26 16:12 | 3110.T | **次代产品路线图确认（评级★★★★维持）** | TrendForce确认Nittobo 2028次代T-glass：CTE 2.8→2.0 ppm（改善30%）；Nvidia/Apple/Google为预期客户；Nan Ya 2027年替代只覆盖旧规格，最先进需求仍需Nittobo；护城河延续至2028+ |
+| 2026-05-26 16:12 | CHG.L | **BAE风险项新增（评级★★★★维持）** | BAE Systems无NC/NG推进剂技术"预计2026年底工业成熟"；若成立则Chemring NC护城河有长期时间线风险；目前仍处pilot阶段，历史上此类时间节点普遍延期；June 9财报前主要是监控项而非威胁 |
