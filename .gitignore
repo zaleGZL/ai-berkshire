@@ -23,3 +23,6 @@ reports/美团/command-log.jsonl
 
 # 组合报告只存本地，不公开
 reports/portfolio-latest.md
+
+# 实盘持仓与操作记录只存本地，不公开
+/实盘记录/
