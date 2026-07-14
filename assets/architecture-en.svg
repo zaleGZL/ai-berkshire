@@ -24,7 +24,7 @@
   <!-- ① Skill Layer -->
   <rect x="24" y="120" width="712" height="150" rx="12" fill="#f3f7fc" stroke="#d9e4f0"/>
   <text x="44" y="150" font-size="16" font-weight="700" fill="#0b0b0b">① Skill Layer</text>
-  <text x="716" y="150" font-size="12.5" fill="#52514e" text-anchor="end">19 skills · one per scenario</text>
+  <text x="716" y="150" font-size="12.5" fill="#52514e" text-anchor="end">20 skills · one per scenario</text>
 
   <g>
     <rect x="44" y="166" width="124" height="52" rx="9" fill="#ffffff" stroke="#dbe4ee"/>
